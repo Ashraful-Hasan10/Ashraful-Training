@@ -1,0 +1,47 @@
+.header-link {
+    text-decoration: none !important;
+    color: white;
+    padding: 30px;
+  }
+  .header-link:hover {
+    color: gray;
+  }
+  .navBar-bg {
+    background-image: linear-gradient(#0708115e, #151626c4),
+      url("https://img.freepik.com/free-photo/gym-equipments-fitness-club_23-2147949744.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    min-height: 660px;
+    background-size: cover;
+  }
+  .header-content h1 {
+    color: white;
+    font-weight: 700;
+    /* text-transform: uppercase; */
+  }
+  .header-content h6 {
+    color: #959393;
+    font-size: 14px;
+    margin-top:20px;
+  }
+  .header-content button {
+    border: none;
+    outline: none;
+    background-color: #fcd842;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 8px 30px;
+    margin-top: 20px;
+  }
+  .header-title {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+  }
+  .header-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

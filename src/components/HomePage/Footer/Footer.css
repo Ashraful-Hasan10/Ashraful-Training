@@ -1,0 +1,40 @@
+footer {
+    background-color: #171426;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+  }
+  .footer-link {
+    list-style: none;
+    display: inline;
+  }
+  .company-list {
+    text-decoration: none;
+    color: white;
+  }
+  .company-list:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  .social-link {
+    display: flex;
+  }
+  
+  .social-img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+  }
+  
+  .social-link p {
+    padding: 5px;
+    display: inline;
+  }
+  
+  .social-link p a img:hover {
+    background-color: #257cc3;
+  }
+  .footer-title h6 {
+    color: white;
+  }
+  
